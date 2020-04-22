@@ -1,9 +1,9 @@
 import random
 import math
 '''
-Author: Joshua Mol
+Author: ジョシュアモル
 Date: January, 10, 2020
-Contact: joshua_mol@hotmail.ca
+Contact: devr4ndom@gmail.com
 Version: 1.0
 '''
 def find_Period (g, minimum, N):
